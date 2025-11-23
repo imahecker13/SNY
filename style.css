@@ -4,6 +4,8 @@ img{
 
 body{
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(68, 148, 68);
+    background-color: rgb(224, 231, 201);
+
 }
