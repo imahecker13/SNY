@@ -1,11 +1,16 @@
 img{
-    width: 300px
+    width: 350px;
 }
 
 body{
-    text-align: center;
+    text-align: left;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(68, 148, 68);
     background-color: rgb(224, 231, 201);
+    font-size: 17px
+}
 
+#h1{
+  font-size: 40px;
+  text-align: center;
 }
